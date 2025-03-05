@@ -1,0 +1,14 @@
+C:\Users\dhana\source\repos\Inheritance_practiceques\bin\Debug\net8.0\Inheritance_practiceques.exe
+C:\Users\dhana\source\repos\Inheritance_practiceques\bin\Debug\net8.0\Inheritance_practiceques.deps.json
+C:\Users\dhana\source\repos\Inheritance_practiceques\bin\Debug\net8.0\Inheritance_practiceques.runtimeconfig.json
+C:\Users\dhana\source\repos\Inheritance_practiceques\bin\Debug\net8.0\Inheritance_practiceques.dll
+C:\Users\dhana\source\repos\Inheritance_practiceques\bin\Debug\net8.0\Inheritance_practiceques.pdb
+C:\Users\dhana\source\repos\Inheritance_practiceques\obj\Debug\net8.0\Inheritance_practiceques.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhana\source\repos\Inheritance_practiceques\obj\Debug\net8.0\Inheritance_practiceques.AssemblyInfoInputs.cache
+C:\Users\dhana\source\repos\Inheritance_practiceques\obj\Debug\net8.0\Inheritance_practiceques.AssemblyInfo.cs
+C:\Users\dhana\source\repos\Inheritance_practiceques\obj\Debug\net8.0\Inheritance_practiceques.csproj.CoreCompileInputs.cache
+C:\Users\dhana\source\repos\Inheritance_practiceques\obj\Debug\net8.0\Inheritance_practiceques.dll
+C:\Users\dhana\source\repos\Inheritance_practiceques\obj\Debug\net8.0\refint\Inheritance_practiceques.dll
+C:\Users\dhana\source\repos\Inheritance_practiceques\obj\Debug\net8.0\Inheritance_practiceques.pdb
+C:\Users\dhana\source\repos\Inheritance_practiceques\obj\Debug\net8.0\Inheritance_practiceques.genruntimeconfig.cache
+C:\Users\dhana\source\repos\Inheritance_practiceques\obj\Debug\net8.0\ref\Inheritance_practiceques.dll
