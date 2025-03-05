@@ -1,0 +1,14 @@
+C:\Users\dhana\source\repos\BankAccount\bin\Debug\net8.0\OopsConcepts.exe
+C:\Users\dhana\source\repos\BankAccount\bin\Debug\net8.0\OopsConcepts.deps.json
+C:\Users\dhana\source\repos\BankAccount\bin\Debug\net8.0\OopsConcepts.runtimeconfig.json
+C:\Users\dhana\source\repos\BankAccount\bin\Debug\net8.0\OopsConcepts.dll
+C:\Users\dhana\source\repos\BankAccount\bin\Debug\net8.0\OopsConcepts.pdb
+C:\Users\dhana\source\repos\BankAccount\obj\Debug\net8.0\OopsConcepts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhana\source\repos\BankAccount\obj\Debug\net8.0\OopsConcepts.AssemblyInfoInputs.cache
+C:\Users\dhana\source\repos\BankAccount\obj\Debug\net8.0\OopsConcepts.AssemblyInfo.cs
+C:\Users\dhana\source\repos\BankAccount\obj\Debug\net8.0\OopsConcepts.csproj.CoreCompileInputs.cache
+C:\Users\dhana\source\repos\BankAccount\obj\Debug\net8.0\OopsConcepts.dll
+C:\Users\dhana\source\repos\BankAccount\obj\Debug\net8.0\refint\OopsConcepts.dll
+C:\Users\dhana\source\repos\BankAccount\obj\Debug\net8.0\OopsConcepts.pdb
+C:\Users\dhana\source\repos\BankAccount\obj\Debug\net8.0\OopsConcepts.genruntimeconfig.cache
+C:\Users\dhana\source\repos\BankAccount\obj\Debug\net8.0\ref\OopsConcepts.dll
